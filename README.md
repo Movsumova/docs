@@ -7,3 +7,7 @@ https://drive.google.com/file/d/140Sbzh3j1OYika7kb443g92omzlN9pRU/view?usp=shari
 
 Bug report
 https://docs.google.com/spreadsheets/d/1Eah2633L1iPo0gNsnlCql-ypC5N56111/edit?usp=sharing&ouid=110590343996810390074&rtpof=true&sd=true
+
+Test running 
+https://drive.google.com/file/d/10Ne2s-SRmLp8dE9weN3sLZsMIJ03515U/view?usp=sharing
+
